@@ -31,7 +31,7 @@ Run 'frame.java'
 
 ## Screenshots
 
-<img width="511" alt="s1" src="https://user-images.githubusercontent.com/87890518/196945256-eb3669da-ff47-448e-90d3-d4ec3f52e992.png">
+<img width="511" alt="s1" src="![Screenshot 2023-06-01 202127](https://github.com/Rexon-Pambujya/OTP-LOGIN-SYSTEM-SHA256/assets/81875310/efbe299e-86d7-4a3a-8ca5-85a9ef9f78d5)">
 <img width="229" alt="s2" src="https://user-images.githubusercontent.com/87890518/196945264-5671e267-169b-443b-8685-4176d756fa6d.png">
 <img width="227" alt="s3" src="https://user-images.githubusercontent.com/87890518/196945277-e74662a5-383d-48dd-9743-bd761dfba786.png">
 <img width="422" alt="s4" src="https://user-images.githubusercontent.com/87890518/196945288-d77dcd34-a123-4e3f-8d98-6f88a63381a4.png">
