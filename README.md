@@ -35,5 +35,7 @@ Run 'frame.java'
 
 <img width="229" alt="s2" src="https://user-images.githubusercontent.com/87890518/196945264-5671e267-169b-443b-8685-4176d756fa6d.png">
 <img width="227" alt="s3" src="https://user-images.githubusercontent.com/87890518/196945277-e74662a5-383d-48dd-9743-bd761dfba786.png">
-<img width="422" alt="s4" src="https://user-images.githubusercontent.com/87890518/196945288-d77dcd34-a123-4e3f-8d98-6f88a63381a4.png">
-<img width="710" alt="s5" src="https://user-images.githubusercontent.com/87890518/196945302-d5dd6daf-ca95-462c-9b79-723ddee87ab2.png">
+
+![Screenshot 2023-06-01 202217](https://github.com/Rexon-Pambujya/OTP-LOGIN-SYSTEM-SHA256/assets/81875310/0ac5ecd6-0a21-47b0-9321-54d30d2758f1)
+![Screenshot 2023-06-01 202854](https://github.com/Rexon-Pambujya/OTP-LOGIN-SYSTEM-SHA256/assets/81875310/1710595a-9caf-454b-930a-095246deb772)
+![Screenshot 2023-06-01 202712](https://github.com/Rexon-Pambujya/OTP-LOGIN-SYSTEM-SHA256/assets/81875310/72fa8b91-a59c-4a66-89d7-625a71ed5dd7)
